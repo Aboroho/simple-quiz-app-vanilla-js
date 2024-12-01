@@ -1,2 +1,1 @@
-# simple-quiz-app-vanilla-js
-A lightweight quiz application built with Vanilla JavaScript, designed to explore and manipulate the DOM dynamically. 
+A lightweight quiz application built with Vanilla JavaScript, designed to explore and manipulate the DOM dynamically. This project includes features like displaying questions, tracking user answers, and showing scores, providing hands-on experience with event handling, DOM traversal, and updates. Perfect for learning JavaScript fundamentals and improving your understanding of interactive web development!
